@@ -128,7 +128,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		text-transform: uppercase;
+		/*text-transform: uppercase;*/
 		line-height: 1.75em;
 	}
 
@@ -160,14 +160,15 @@ input, select, textarea {
 		-webkit-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		-ms-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
-		color: #35b88f;
+		/*color: #35b88f;*/
 		text-shadow: 0 0 0.5px rgba(53, 184, 143, 0.25);
 		text-decoration: none;
-		border-bottom: dotted 1px rgba(53, 184, 143, 0.5);
+		/*border-bottom: dotted 1px rgba(53, 184, 143, 0.5);*/
 	}
 
 		a:hover {
 			border-bottom-color: rgba(53, 184, 143, 0);
+			color: #35b88f;
 		}
 
 	sub {
@@ -2005,7 +2006,7 @@ input, select, textarea {
 				color: rgba(255, 255, 255, 0.75);
 				text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.1875);
 				font-size: 1em;
-				text-transform: uppercase;
+				/*text-transform: uppercase;*/
 				letter-spacing: 3px;
 				padding: 0;
 				margin-top: 0.35em;
@@ -2157,6 +2158,16 @@ input, select, textarea {
 			margin: 0 0 9em 0;
 			font-size: 0.8em;
 		}
+
+
+/*resume link*/
+
+	#resume{
+		color: #000000;
+	}
+	#resume:hover{
+		color: #35b88f;
+	}
 
 /* Poptrox */
 

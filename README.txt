@@ -1,5 +1,5 @@
 lol idk how webdev works so im just gonna use a template - maybe when i learn enough
-i'll build a site from scratch
+i'll build a site from scratch - pls dont look down on me
 
 credits:
 Overflow by HTML5 UP
