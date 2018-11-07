@@ -139,7 +139,11 @@ input, select, textarea {
 
 	h2 {
 		font-size: 1.25em;
-		letter-spacing: 8px;
+		letter-spacing: 6px;
+	}
+
+	#meme1{
+		letter-spacing: 4px;
 	}
 
 	h3 {
@@ -1998,7 +2002,7 @@ input, select, textarea {
 			#header header h1 {
 				font-weight: 600;
 				font-size: 2em;
-				letter-spacing: 10px;
+				letter-spacing: 8px;
 			}
 
 			#header header p {
