@@ -2176,9 +2176,15 @@ input, select, textarea {
 	}
 
 /*hackmhs image*/
-	#first img{
+	#second img{
 		max-width: 100%;
 		/*max-height: 100%;*/
+	}
+
+/*feature 3 csii*/
+	#feature3 img{
+		max-width: 100%;
+		max-height: 100%;
 	}
 
 /* Poptrox */
