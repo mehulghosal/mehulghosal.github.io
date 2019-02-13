@@ -9,3 +9,4 @@ https://www.cssfontstack.com/Web-Fonts
 https://www.w3schools.com/css/css_font.asp
 
 https://www.w3schools.com/howto/howto_css_images_side_by_side.asp
+https://www.w3schools.com/html/html_responsive.asp
