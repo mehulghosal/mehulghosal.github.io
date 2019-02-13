@@ -10,3 +10,7 @@ https://www.w3schools.com/css/css_font.asp
 
 https://www.w3schools.com/howto/howto_css_images_side_by_side.asp
 https://www.w3schools.com/html/html_responsive.asp
+
+
+* each article is a page
+* each section will be a different part on that page
