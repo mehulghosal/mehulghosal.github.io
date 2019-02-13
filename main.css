@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url("font-awesome.min.css");
+
+
+body{
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+ul{
+	list-style-type: none;
+	padding-left: 0;
+}
+
+#gitlogo{
+	width: 3%;
+}
+
