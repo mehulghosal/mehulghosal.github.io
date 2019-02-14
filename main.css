@@ -1,12 +1,15 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
-@import url("font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Carme");
 
 
 body{
 	text-align: center;
-	background-color: black;
-	color: white;
+	background-color: rgb(8, 8, 12);
+	color: rgb(255, 250, 245);
 	font-size: 150%;
+	/*PICK BETWEEN THESE TWO FONTS*/
+	/*font-family: "Source Sans Pro", sans-serif;*/
+	font-family: "Carme", sans-serif;
 }
 
 article{
@@ -14,11 +17,11 @@ article{
 }
 
 h1{
-	font-size: 1.3em;
+	font-size: 1.45em;
 }
 
 h3{
-	font-size: 1.2em;
+	font-size: 1.32em;
 }
 
 ul{
@@ -26,9 +29,12 @@ ul{
 	padding-left: 0;
 }
 
-#gitlogo{
-	width: 3%;
-	padding: 0;
+#SKILLS{
+	/*margin-left: 5%;*/
+}
+
+#EDU{
+	/*margin-right: 5%*/
 }
 
 .half{
@@ -39,4 +45,9 @@ ul{
 .third{
 	width: 33.33%;
 	float: left;
+}
+
+.logo{
+	width: 8%;
+	padding: 0;
 }
