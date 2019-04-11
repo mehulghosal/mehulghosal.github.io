@@ -10,6 +10,10 @@ body{
 	/*PICK BETWEEN THESE TWO FONTS*/
 	/*font-family: "Source Sans Pro", sans-serif;*/
 	font-family: "Carme", sans-serif;
+
+	max-width: 1475px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 article{
@@ -26,20 +30,26 @@ h3{
 
 ul{
 	list-style-type: none;
-	padding-left: 0;
 }
 
-#SKILLS{
-	/*margin-left: 5%;*/
+#EXPERIENCE{
+	width: 100%;
+	float: center;
 }
 
-#EDU{
-	/*margin-right: 5%*/
+#gitlogo{
+	text-align: right;
+	/*margin-right: 2%;*/
+}
+#reslogo{
+	text-align: left;
+	/*margin-left: 2%*/
 }
 
 .half{
 	width: 50%;
 	float: left;
+	/*margin-left: 25%*/
 }
 
 .third{
@@ -50,4 +60,9 @@ ul{
 .logo{
 	width: 8%;
 	padding: 0;
+	float: center;
+}
+
+.projlogo{
+	width: 4.5%;
 }
