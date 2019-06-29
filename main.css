@@ -16,6 +16,18 @@ body{
 	margin-right: auto;
 }
 
+#landing{
+	height: 400px;
+    width: 647px;
+    /*background: white;*/
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -323px;
+}
+
 article{
 	width: 100%;
 }
