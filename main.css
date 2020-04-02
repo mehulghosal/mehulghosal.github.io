@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url("https://fonts.googleapis.com/css?family=Carme");
+
+
+body{
+	text-align: center;
+	background-color: rgb(30, 0, 38);
+	color: rgb(255, 250, 245);
+	font-size: 150%;
+	/*PICK BETWEEN THESE TWO FONTS*/
+	/*font-family: "Source Sans Pro", sans-serif;*/
+	font-family: "Carme", sans-serif;
+
+	max-width: 1475px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#landing{
+	height: 400px;
+    width: 647px;
+    /*background: white;*/
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -323px;
+}
+
+article{
+	width: 100%;
+}
+
+h1{
+	font-size: 1.45em;
+}
+
+h3{
+	font-size: 1.32em;
+}
+
+ul{
+	list-style-type: none;
+	text-align: left;
+}
+
+#EXPERIENCE{
+	width: 100%;
+	float: center;
+}
+
+#gitlogo{
+	text-align: right;
+	/*margin-right: 2%;*/
+}
+#reslogo{
+	text-align: left;
+	/*margin-left: 2%*/
+}
+
+.half{
+	width: 50%;
+	float: left;
+	/*margin-left: 25%*/
+}
+
+.third{
+	width: 33.33%;
+	float: left;
+}
+
+.logo{
+	width: 8%;
+	padding: 0;
+	float: center;
+}
+
+.projlogo{
+	width: 4.5%;
+}
