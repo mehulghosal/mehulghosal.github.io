@@ -1,7 +1,13 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 @import url("https://fonts.googleapis.com/css?family=Carme");
 
-
+/*cool colors
+light gray: #D8DCD6;
+light salmon: #FEA993;
+pale pink: #FDC1C5;
+yello:#fddc5c;
+yello:#fff994;
+*/
 body{
 	text-align: center;
 	background-color: rgb(30, 0, 38);
@@ -16,20 +22,19 @@ body{
 	margin-right: auto;
 }
 
-#landing{
-    position: fixed;
-}
 
 article{
 	width: 100%;
 }
 
 h1{
-	font-size: 1.45em;
+	font-size: 1.5em;
+	margin-bottom: -1.5%;
 }
 
 h3{
 	font-size: 1.32em;
+	margin-bottom: -2%;
 }
 
 ul{
@@ -37,9 +42,26 @@ ul{
 	text-align: left;
 }
 
+p{
+	margin-bottom: -1%;
+}
+
+#landing{
+    position: fixed;
+}
+
+#HEADER{
+	background-color: #fff994;
+	color: rgb(30, 0, 38);
+}
+
 #EXPERIENCE{
 	width: 100%;
 	float: center;
+}
+
+#EDUCATION{
+	margin-top: 13%;
 }
 
 #gitlogo{
@@ -68,7 +90,7 @@ ul{
 }
 
 .logo{
-	width: 8%;
+	width: 15%;
 	padding: 0;
 	float: center;
 }
