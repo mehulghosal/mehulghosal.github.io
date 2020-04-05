@@ -54,7 +54,7 @@ p{
 }
 
 #HEADER{
-	background-color: #f5cdff;
+	background-color: #F2C0FF;
 }
 
 #EXPERIENCE{
@@ -67,5 +67,10 @@ p{
 
 #PROJECTS{
 	background-color: #d7ffcd;
+	/*margin-bottom: 2%;*/
+}
+
+#CONTACT{
+	background-color: #fff5cd;
 	margin-bottom: 2%;
 }
