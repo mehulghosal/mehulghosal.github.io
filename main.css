@@ -1,45 +1,48 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 @import url("https://fonts.googleapis.com/css?family=Carme");
 
-/*cool colors
-light gray: #D8DCD6;
-light salmon: #FEA993;
-pale pink: #FDC1C5;
-yello:#fddc5c;
-yello:#fff994;
-*/
+
 body{
 	text-align: center;
 	background-color: rgb(30, 0, 38);
-	color: rgb(255, 250, 245);
+	color: rgb(30, 0, 38);
 	font-size: 150%;
 	/*PICK BETWEEN THESE TWO FONTS*/
 	font-family: "Source Sans Pro", sans-serif;
 	/*font-family: "Carme", sans-serif;*/
+	/*TXT BORDER*/
+	/*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
 
-	max-width: 60%;
+	/*max-width: 50%;*/
 	margin-left: auto;
 	margin-right: auto;
+
 }
 
 
 article{
-	width: 100%;
+	/*width: 50%;*/
+	padding-right: 7%;
+	padding-left: 7%;
+	padding-bottom: 2%;
+	margin-right: 20%;
+	margin-left: 20%;
+}
+
+header{
+	margin-top: 1%;
 }
 
 h1{
 	font-size: 1.5em;
-	margin-bottom: -1.5%;
+	margin-bottom: -1%;
+	padding-top: 1%
 }
 
 h3{
 	font-size: 1.32em;
 	margin-bottom: -2%;
-}
-
-ul{
-	list-style-type: none;
-	text-align: left;
+	/*margin-top: 0.5%;*/
 }
 
 p{
@@ -51,50 +54,18 @@ p{
 }
 
 #HEADER{
-	background-color: #fff994;
-	color: rgb(30, 0, 38);
+	background-color: #E276FF;
 }
 
 #EXPERIENCE{
-	width: 100%;
-	float: center;
+	background-color: #7693ff;
 }
 
 #EDUCATION{
-	margin-top: 13%;
+	background-color: #ffe276;
 }
 
-#gitlogo{
-	text-align: right;
-	/*margin-right: 2%;*/
-}
-#reslogo{
-	text-align: left;
-	/*margin-left: 2%*/
-}
-
-.titleTop{
-	margin-top: 1%;
-	margin-bottom: 1%;
-}
-
-.half{
-	width: 50%;
-	float: left;
-	/*margin-left: 25%*/
-}
-
-.third{
-	width: 33.33%;
-	float: left;
-}
-
-.logo{
-	width: 15%;
-	padding: 0;
-	float: center;
-}
-
-.projlogo{
-	width: 4.5%;
+#PROJECTS{
+	background-color: #93ff76;
+	margin-bottom: 2%;
 }
