@@ -27,6 +27,8 @@ article{
 	padding-bottom: 2%;
 	margin-right: 20%;
 	margin-left: 20%;
+
+	border-radius: 10%;
 }
 
 header{
@@ -47,6 +49,7 @@ h3{
 
 p{
 	margin-bottom: -1%;
+	font-size: .98em;
 }
 
 #landing{
